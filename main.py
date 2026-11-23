@@ -1,5 +1,7 @@
 """One Emoji, One Smile — make.fun entry.
 
+One hug, one smile: a single character that says "you are welcome here".
+
 Writes exactly one emoji to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 The emoji is 🤗 (hugging face): an open-armed, warm welcome that a
